@@ -30,5 +30,5 @@ pip install rasa
 - On your left side, Messenger section will appear.
   - Settings: Here, you can setup facebook messenger.
   - Instagram settings: Here, you can setup instagram messenger by connecting to your instagram page.
-![image](https://user-images.githubusercontent.com/57827233/205037072-9d50e3fc-3581-4a05-b0ca-f8628798b7d0.png)
+![image](https://user-images.githubusercontent.com/57827233/205037072-9d50e3fc-3581-4a05-b0ca-f8628798b7d0.png)<br>
 Note: Your page has to be connected with your Facebook account otherwise you won't see it.
